@@ -26,6 +26,7 @@ Incidentally, I upgraded many of the packages FYI.
 - Implemented tests
 - Been tighter in typing (TypeScript)
 - Given more attention accessibility
+- Make it responsive?
 
 
 
